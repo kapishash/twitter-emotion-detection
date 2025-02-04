@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+
+twitter_emotions_classification.egg-info/
+
+
 # Distribution / packaging
 .Python
 build/
